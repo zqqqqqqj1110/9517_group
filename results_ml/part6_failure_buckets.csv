@@ -1,0 +1,4 @@
+Category,Count,RF Avg IoU,XGBoost-S2 Avg IoU
+low_light,7,0.7726,0.7661
+complex_background,15,0.9024,0.9084
+low_contrast,2,0.9143,0.9243
