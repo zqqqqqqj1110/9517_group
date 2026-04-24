@@ -1,7 +1,0 @@
-Experiment,Finding,Statistical Significance
-Model Comparison,XGBoost performs better,p=0.3949
-Class Balancing,Best strategy: S2,N/A
-Threshold Analysis,Optimal threshold: 0.5,N/A
-Noise Robustness,XGBoost-S2 more robust than RF,N/A
-Blur Robustness,XGBoost-S2 less robust than RF,N/A
-Dark Robustness,XGBoost-S2 less robust than RF,N/A
